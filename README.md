@@ -1,2 +1,3 @@
-# rock-paper-scissors
+# Rock paper scissors
+
 Basic game of rock, paper, scissors.
